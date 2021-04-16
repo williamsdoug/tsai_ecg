@@ -10,6 +10,9 @@ _tmp*
 tmp*
 tags
 
+tutorial_nbs/_*.ipynb
+tutorial_nbs/*-Copy1.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
