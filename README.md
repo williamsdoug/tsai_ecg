@@ -1,4 +1,3 @@
-
 # tsai_ecg
 > ECG related extensions to <a href='https://timeseriesai.github.io/tsai/'>tsai</a>, a State-of-the-art Deep Learning for Time Series and Sequence Modeling. tsai_ecg is currently under active development.
 
