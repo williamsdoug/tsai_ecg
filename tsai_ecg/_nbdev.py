@@ -23,6 +23,6 @@ modules = ["data/synthetic.py",
 
 doc_url = "https://williamsdoug.github.io/tsai_ecg/"
 
-git_url = "https://github.com/williamsdoug/tsai_ecg/tree/master/"
+git_url = "https://github.com/williamsdoug/tsai_ecg/tree/main/"
 
 def custom_doc_links(name): return None
