@@ -2,9 +2,24 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"get_synthetic_sin_data": "200_data.synthetic.ipynb",
+         "preprocess_extract_annotation_windows": "201_data.annotated.ipynb",
+         "TSAnnotatedTensor": "201_data.annotated.ipynb",
+         "TSAnnotatedDataset": "201_data.annotated.ipynb",
+         "TSAnnotatedDatasets": "201_data.annotated.ipynb",
+         "TSAnnotatedDataLoader": "201_data.annotated.ipynb",
+         "TSAnnotatedDataLoaders": "201_data.annotated.ipynb",
+         "pre_categorize": "201_data.annotated.ipynb",
+         "get_ats_dl": "201_data.annotated.ipynb",
+         "get_ats_dls": "201_data.annotated.ipynb",
+         "TSPerAnnotationGenericClassifier": "201_data.annotated.ipynb",
+         "TSPerAnnClassification": "201_data.annotated.ipynb",
+         "TSPerAnnMultiLabelClassification": "201_data.annotated.ipynb",
+         "TSAnnotationWindow": "201_data.annotated.ipynb",
+         "get_ats_dls_with_transforms": "201_data.annotated.ipynb"}
 
-modules = []
+modules = ["data/synthetic.py",
+           "data/annotated.py"]
 
 doc_url = "https://williamsdoug.github.io/tsai_ecg/"
 
